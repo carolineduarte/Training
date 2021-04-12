@@ -1,0 +1,56 @@
+:root {
+  --vermelho: #d81f26;
+  --preta: #141414;
+  --cinza: #aaa;
+}
+
+/* Para dar o reset à formatação em todos os navegadores*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: BebasNeue;
+  src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+  font-family: RobotoRegular;
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: BebasKai;
+  src: url(../fonts/BebasKai-Regular.otf);
+}
+
+body {
+  background-color: var(--preta);
+  font-family: "Times New Roman", Times, serif;
+}
+
+header .container {
+  display: flex;
+  flex-direction: row; /*O padrão do flex é naturalmente row*/
+  align-items: center;
+  justify-content: space-between;
+}
+
+header .logo {
+  margin: 5px;
+  color: var(--vermelho);
+  font-family: BebasKai, BebasNeue, Roboto-Regular, sans-serif;
+  font-size: 40px;
+}
+
+header nav a {
+  text-decoration: none;
+  color: var(--cinza);
+  margin-right: 10px;
+}
+
+header nav a:hover {
+  color: #fff;
+}

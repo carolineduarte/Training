@@ -1,7 +1,79 @@
-var d = new Date();
+let line = gets("5 3").split(" ");
+let A = parseInt(line[0]);
+let B = parseInt(line[1]);
+let total = A+B; // Altere o valor da variável com o cálculo esperado
+console.log("X = " + total);
+
+let valor1 = parseInt(gets("25"));
+let valor2 = parseInt(gets("100"));
+let valor3 = parseFloat(gets("10.5"));
+let salary = parseFloat(valor2 * valor3).toFixed(2); // Digite aqui o calculo do salário
+console.log("NUMBER = " + valor1);
+console.log("SALARY = U$ " + salary);
+
+let valor1 = parseInt(gets("3"));
+let valor2 = parseInt(gets("9"));
+let total = valor1*valor2; // Altere o valor da variável com o cálculo esperado 
+console.log("PROD = " + total);
+
+/*function clicou(){
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
+    //console.log(document.getElementById("agradecimento"));
+    //alert("Obrigado por clicar");
+}
+
+function redirecionar(){
+    window.open("http://www.bbc.com/");
+    //window.location.href = "http://www.bbc.com/";
+}
+
+function trocar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Obrigada por qq coisa.";
+    elemento.innerHTML = "Obrigada por qq coisa.";
+    //alert("trocar texto");
+}
+
+function voltar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse aqui";
+    elemento.innerHTML = "Passe o mouse aqui";
+}
+
+function load(){
+    alert("pagina carregada");
+}
+
+function change(elemento){
+    console.log(elemento.value);
+}*/
+
+/*function soma(n1,n2){
+    return n1+n2;
+}
+
+function setReplace(frase,nome, novo_nome){
+    return frase.replace(nome, novo_nome);
+}
+
+function validaIdade(idade){
+    var validar;
+    if(idade >= 18){
+        validar = true;
+    }else{
+        validar = false;
+    }
+    return validar;    
+}
+
+var idade = prompt("Qual a sua idade?");
+console.log(validaIdade(idade));*/
+
+/*alert(soma(5,10));
+alert(setReplace("Vai Japão!","Japão","Brasil"));*/
+
+/*var d = new Date();
 //alert(d);
 //alert(d.getMonth()+1);
-alert(d.getDate());
+alert(d.getDate());*/
 
 /*var count = 0;
 for(count = 0; count <= 5; count++){
