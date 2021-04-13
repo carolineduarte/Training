@@ -26,9 +26,27 @@
   src: url(../fonts/BebasKai-Regular.otf);
 }
 
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(../fonts/HelveticaNeue-Regular.ttf);
+}
+
+@font-face {
+  font-family: NetflixSansIcon;
+  src: url(../fonts/NetflixSansIcon.ttf);
+}
+
+@font-face {
+  font-family: NetflixSansRegular;
+  src: url(../fonts/NetflixSansRegular.ttf);
+}
+
+/* Elementos base*/
 body {
   background-color: var(--preta);
-  font-family: "Times New Roman", Times, serif;
+  font-family: HelveticaNeue-Regular, HelveticaNeue, "Times New Roman", Times,
+    serif;
+  color: #fff;
 }
 
 header .container {
@@ -41,7 +59,7 @@ header .container {
 header .logo {
   margin: 5px;
   color: var(--vermelho);
-  font-family: BebasKai, BebasNeue, Roboto-Regular, sans-serif;
+  font-family: NetflixSansIcon, BebasKai, BebasNeue, Roboto-Regular, sans-serif;
   font-size: 40px;
 }
 
@@ -49,8 +67,35 @@ header nav a {
   text-decoration: none;
   color: var(--cinza);
   margin-right: 10px;
+  //font-size: 16px;
+  font-weight: bold;
 }
 
 header nav a:hover {
   color: #fff;
+}
+
+/*Filme principal*/
+.filme_principal {
+  font-size: 16px;
+  background: /*linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,1)),*/ url(../img/ironman.jpg);
+  height: 400px;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.filme_principal .descricao {
+  margin-bottom: 90px;
+  margin-right: 700px;
+}
+
+.titulo {
+  font-size: 30px;
+  font-family: NetflixSansRegular, HelveticaNeue-Regular, HelveticaNeue,
+    "Times New Roman", Times, serif;
+  line-height: 1.1;
 }
