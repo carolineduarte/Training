@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import java.util.List;
+
 @Controller
 @RequestMapping("/employees")
 public class EmployeeController {
@@ -16,13 +18,20 @@ public class EmployeeController {
     @Autowired
     EmployeeRepository employeeRepository;
 
+    @GetMapping
+    public String displayEmployees(Model model){
+        List<Employee> employees = employeeRepository.findAll();
+        model.addAttribute("employeesList",employees);
+        return "employees/list-employees";
+    }
+
     @GetMapping("/new")
     public String displayEmployeeForm(Model model){
 
         Employee aEmployee = new Employee();
 
         model.addAttribute("employee", aEmployee);
-        return "new_employee";
+        return "employees/new_employee";
     }
 
     @PostMapping("/save")
