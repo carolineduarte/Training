@@ -1,5 +1,6 @@
 package com.jrp.pma.controllers;
 
+import com.jrp.pma.dao.EmployeeRepository;
 import com.jrp.pma.dao.ProjectRepository;
 import com.jrp.pma.entities.Employee;
 import com.jrp.pma.entities.Project;
@@ -9,6 +10,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
@@ -18,6 +20,9 @@ public class ProjectController {
 
     @Autowired
     ProjectRepository projectRepository;
+
+    @Autowired
+    EmployeeRepository employeeRepository;
 
     @GetMapping
     public String displayProjects(Model model){
@@ -30,16 +35,23 @@ public class ProjectController {
     public String displayProjectForm(Model model){
 
         Project aProject = new Project();
-
+        List<Employee> employees = employeeRepository.findAll();
         model.addAttribute("project", aProject);
+        model.addAttribute("allEmployees", employees);
         return "projects/new_project";
     }
 
     @PostMapping("/save")
-    public String createProject(Project project, Model model){
+    public String createProject(Project project, @RequestParam List<Long> employees,Model model){
 
         //This should handle the saving to the database
         projectRepository.save(project);
+
+        Iterable<Employee> chosenEmployees = employeeRepository.findAllById(employees);
+        for(Employee emp : chosenEmployees){
+            emp.setProject(project);
+            employeeRepository.save(emp);
+        }
 
         //use the redirect to prevent duplicate submissions
         return "redirect:/projects/new";

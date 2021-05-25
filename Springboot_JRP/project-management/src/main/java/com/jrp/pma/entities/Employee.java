@@ -4,10 +4,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 @Getter @Setter
@@ -21,6 +18,11 @@ public class Employee {
     private String firstName;
     private String lastName;
     private String email;
+
+    @ManyToOne(cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST},
+    fetch = FetchType.LAZY)
+    @JoinColumn(name ="projectID")
+    private Project project;
 
     public Employee(String firstName, String lastName, String email) {
         this.firstName = firstName;
