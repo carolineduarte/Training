@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35e7e02f-42bd-4499-a783-39a52b42f9c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/java/com/jrp/pma/controllers/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/java/com/jrp/pma/entities/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/resources/templates/new-project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/Aula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/Educado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/Segundos1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/Testes de aula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/aguaferve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/bhaskara.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/bhaskara2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/binomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/binomial_prof.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/buzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/coh_piah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/coh_piah_teste.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/conta_primos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/decomposicao primos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/descrescente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/dezenas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/digitos_adjacentes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/dimensoes_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/eprimo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/eprimo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fartocel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fatoriais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fatorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fatura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fizz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fizzbuzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/fizzbuzz_funcao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_retangulo_cheio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_retangulo_vazado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/inverte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/jogo_nim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/jogo_nim2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/le_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/lista_inversas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/maior_elemento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/maior_primo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/matriz_mult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/maximo_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/maximo_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/medias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/n_impares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/ordenacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/paridade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/pontos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/potencias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/primalidade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/produto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/quadrado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/remove_repetidos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/seeprimo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/segundos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_digitos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_elementos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_hipotenusas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/somatorio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/tabuada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/tempojogo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_coursera/vogais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upskill_java1_labprg_grupo2" beforeDir="false" afterPath="$PROJECT_DIR$/../upskill_java1_labprg_grupo2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1swolCJjvSfvyPOEajgVUhiWzdi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring_training/spring_jrp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carol\Documents\GitHub\spring_jrp\demo\src\main\resources\templates" />
+      <recent name="C:\Users\carol\Documents\GitHub\spring_jrp\demo\src\main\resources\templates\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jpr.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jpr.demo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e7e02f-42bd-4499-a783-39a52b42f9c5" name="Default Changelist" comment="" />
+      <created>1621793164625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621793164625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
