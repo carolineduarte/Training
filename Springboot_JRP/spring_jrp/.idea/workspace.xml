@@ -5,74 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e7e02f-42bd-4499-a783-39a52b42f9c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/java/com/jrp/pma/controllers/ProjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/java/com/jrp/pma/entities/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_training/project-management/src/main/resources/templates/new-project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/Aula.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/Educado.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/Segundos1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/Testes de aula.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/aguaferve.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/bhaskara.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/bhaskara2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/binomial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/binomial_prof.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/buzz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/coh_piah.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/coh_piah_teste.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/conta_primos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/decomposicao primos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/descrescente.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/dezenas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/digitos_adjacentes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/dimensoes_matriz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/eprimo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/eprimo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fartocel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fatoriais.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fatorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fatura.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fizz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fizzbuzz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/fizzbuzz_funcao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/func.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_matriz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_retangulo_cheio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/imprime_retangulo_vazado.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/inverte.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/jogo_nim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/jogo_nim2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/le_matriz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/lista_inversas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/maior_elemento.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/maior_primo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/matriz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/matriz_mult.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/maximo_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/maximo_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/medias.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/n_impares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/ordenacao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/paridade.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/pontos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/potencias.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/primalidade.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/produto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/quadrado.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/remove_repetidos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/seeprimo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/segundos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_digitos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_elementos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_hipotenusas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/soma_matriz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/somatorio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/tabuada.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/tempojogo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_coursera/vogais.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../upskill_java1_labprg_grupo2" beforeDir="false" afterPath="$PROJECT_DIR$/../upskill_java1_labprg_grupo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_jrp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/Aula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/Educado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/Segundos1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/Testes de aula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/aguaferve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/bhaskara.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/bhaskara2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/binomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/binomial_prof.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/buzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/coh_piah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/coh_piah_teste.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/conta_primos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/decomposicao primos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/descrescente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/dezenas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/digitos_adjacentes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/dimensoes_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/eprimo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/eprimo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fartocel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fatoriais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fatorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fatura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fizz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fizzbuzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/fizzbuzz_funcao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/imprime_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/imprime_retangulo_cheio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/imprime_retangulo_vazado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/inverte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/jogo_nim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/jogo_nim2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/le_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/lista_inversas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/maior_elemento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/maior_primo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/matriz_mult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/maximo_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/maximo_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/medias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/n_impares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/ordenacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/paridade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/pontos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/potencias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/primalidade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/produto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/quadrado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/remove_repetidos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/seeprimo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/segundos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma_digitos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma_elementos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma_hipotenusas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/soma_matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/somatorio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/tabuada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/tempojogo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_coursera/vogais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../upskill_java1_labprg_grupo2" beforeDir="false" afterPath="$PROJECT_DIR$/../../upskill_java1_labprg_grupo2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -115,11 +113,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring_training/spring_jrp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-management" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
