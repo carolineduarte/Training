@@ -2,20 +2,16 @@ package com.jrp.pma;
 
 import com.jrp.pma.dao.EmployeeRepository;
 import com.jrp.pma.dao.ProjectRepository;
-import com.jrp.pma.entities.Employee;
-import com.jrp.pma.entities.Project;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
-//import org.springframework.context.annotation.Bean;
 
-import java.util.Arrays;
 
+@EnableAutoConfiguration
 @SpringBootApplication
-public class ProjectManagementApplication {
+public class ProjectManagementApplication{
 
 	@Autowired
 	ProjectRepository projectRepository;
@@ -27,6 +23,11 @@ public class ProjectManagementApplication {
 
 		SpringApplication.run(ProjectManagementApplication.class, args);
 	}
+
+	/*@Bean
+	ServletWebServerFactory servletWebServerFactory(){
+		return new TomcatServletWebServerFactory();
+	}*/
 
 	/*@Bean
 	CommandLineRunner runner(){
