@@ -14,10 +14,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectManagementApplication{
 
 	@Autowired
-	ProjectRepository projectRepository;
+    ProjectRepository projectRepository;
 
 	@Autowired
-	EmployeeRepository employeeRepository;
+    EmployeeRepository employeeRepository;
 
 	public static void main(String[] args) {
 
