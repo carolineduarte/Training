@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "pivotal.vscode-spring-boot",
+    "pivotal.vscode-boot-dev-pack",
+    "alexkrechik.cucumberautocomplete",
+    "mongodb.mongodb-vscode"
+  ]
+}
