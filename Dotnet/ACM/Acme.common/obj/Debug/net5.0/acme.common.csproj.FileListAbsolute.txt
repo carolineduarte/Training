@@ -1,0 +1,16 @@
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.exe
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.deps.json
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.runtimeconfig.json
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.runtimeconfig.dev.json
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.dll
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\ref\acme.common.dll
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\bin\Debug\net5.0\acme.common.pdb
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.csproj.AssemblyReference.cache
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.AssemblyInfoInputs.cache
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.AssemblyInfo.cs
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.dll
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\ref\acme.common.dll
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.pdb
+C:\Users\carol\Documents\GitHub\Training\Dotnet\ACM\acme.common\obj\Debug\net5.0\acme.common.genruntimeconfig.cache
